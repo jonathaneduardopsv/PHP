@@ -10,7 +10,10 @@
     <h1>Teste de tipos primitivos</h1>
     <?php 
         $num = 300;
-        echo "O valor da variável é $num";
+        $nome = "Jonathan";
+        $time = "Vasco";
+        echo "$time é o melhor time do mundo";
+        echo "Assim pensa o $nome";
         //0x = hexadecimal
         //0b = binario
     ?>
