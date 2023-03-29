@@ -20,6 +20,5 @@
             <input type="submit" value="Enviar">
         </form>
     </section>
-    <footer>...</footer>
 </body>
 </html>
